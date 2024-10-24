@@ -1,0 +1,3 @@
+/mnt/nvme1/1/cmake/03/build/CMakeFiles/app.dir
+/mnt/nvme1/1/cmake/03/build/CMakeFiles/edit_cache.dir
+/mnt/nvme1/1/cmake/03/build/CMakeFiles/rebuild_cache.dir

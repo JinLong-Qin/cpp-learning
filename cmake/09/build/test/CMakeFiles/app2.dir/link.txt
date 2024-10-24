@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/sort.cpp.o -o /mnt/nvme1/1/cmake/09/bin/app2   -L/mnt/nvme1/1/cmake/09/lib  -Wl,-rpath,/mnt/nvme1/1/cmake/09/lib /mnt/nvme1/1/cmake/09/lib/libsort.a /mnt/nvme1/1/cmake/09/lib/libcalc.so 

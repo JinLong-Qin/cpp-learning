@@ -1,0 +1,11 @@
+/mnt/nvme1/1/cmake/08/build/CMakeFiles/edit_cache.dir
+/mnt/nvme1/1/cmake/08/build/CMakeFiles/rebuild_cache.dir
+/mnt/nvme1/1/cmake/08/build/calc/CMakeFiles/calc.dir
+/mnt/nvme1/1/cmake/08/build/calc/CMakeFiles/edit_cache.dir
+/mnt/nvme1/1/cmake/08/build/calc/CMakeFiles/rebuild_cache.dir
+/mnt/nvme1/1/cmake/08/build/sort/CMakeFiles/sort.dir
+/mnt/nvme1/1/cmake/08/build/sort/CMakeFiles/edit_cache.dir
+/mnt/nvme1/1/cmake/08/build/sort/CMakeFiles/rebuild_cache.dir
+/mnt/nvme1/1/cmake/08/build/test/CMakeFiles/app2.dir
+/mnt/nvme1/1/cmake/08/build/test/CMakeFiles/edit_cache.dir
+/mnt/nvme1/1/cmake/08/build/test/CMakeFiles/rebuild_cache.dir

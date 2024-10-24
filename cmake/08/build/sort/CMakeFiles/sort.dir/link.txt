@@ -1,0 +1,2 @@
+/usr/bin/ar qc /mnt/nvme1/1/cmake/08/lib/libsort.a CMakeFiles/sort.dir/insert.cpp.o CMakeFiles/sort.dir/select.cpp.o
+/usr/bin/ranlib /mnt/nvme1/1/cmake/08/lib/libsort.a

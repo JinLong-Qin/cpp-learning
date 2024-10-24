@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app1.dir/calc.cpp.o -o /mnt/nvme1/1/cmake/07/bin/app1   -L/mnt/nvme1/1/cmake/07/lib  -Wl,-rpath,/mnt/nvme1/1/cmake/07/lib /mnt/nvme1/1/cmake/07/lib/libcalc.a 

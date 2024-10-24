@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/mnt/nvme1/1/cmake/04/lib2  -Wl,-rpath,/mnt/nvme1/1/cmake/04/lib2 -lcalc 
